@@ -25,5 +25,4 @@ end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
-    gem 'jupyter'
 end
