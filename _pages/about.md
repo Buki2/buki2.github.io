@@ -14,14 +14,14 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am currently a Ph.D. student in the [Key Laboratory of Big Data and Intelligent Robot](https://www2.scut.edu.cn/klbdir/main.htm) at [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/), advised by Prof. [Yi Cai](https://www2.scut.edu.cn/sse/2018/0615/c16788a270751/page.htm) and Prof. [Qiong Liu](https://www2.scut.edu.cn/sse/2018/0615/c16788a270756/page.htm). Additionally, I am currently on an academic visit to the [School of Computing, National University of Singapore (NUS)](https://www.comp.nus.edu.sg/).
 
 My research interests revolve around multimodal learning, human-robot collaboration, and, more specifically, visual grounding.
 
-Feel free to contact me if you are interested in my research work or if you are seeking potential collaborations.
+Feel free to contact me if you are interested in my research work or if you are seeking potential collaborations. <a href="mailto:{{ site.email | encode_email }}">[Email]</a>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
