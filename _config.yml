@@ -271,8 +271,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Yuqi]
-  first_name: [Bu, B., B]
+  last_name: Yuqi
+  first_name: Bu
 
   style: apa
   locale: en
